@@ -1,0 +1,7 @@
+{
+  "name": "Gitintento1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
